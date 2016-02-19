@@ -5,7 +5,7 @@ Customer
 
 Unit Economics
 CAC - Cost to Acquire a Customer
-CAC = [Sum of all sales & marketing expenses] / [Number of new Customers added]
+CAC = Sum of all sales & marketing expenses / Number of new Customers added
 CLV = Customer Lifetime Value
 
 Overall Business
@@ -27,8 +27,8 @@ Churn
 Churn Rate
 Revenue Churn
 Account/Customer Churn
-# of new Customers
-# of churned Customers
+No of new Customers
+No of churned Customers
 Net New Customers
 % Customer Churn
 % MRR Churn
